@@ -65,7 +65,7 @@ Accuracy score was utilized for the models.
 
 ![target](./imgs/bar-target.png)
 
-* Models performance was high due to these features. Further inspection to be done on fatality percentage.
+* Model performance was high due to these features. Further inspection to be done on fatality percentage.
 
 ![feature-importance](./imgs/rf_feauture_imp.png)
 
