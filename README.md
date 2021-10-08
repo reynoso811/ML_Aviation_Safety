@@ -1,4 +1,4 @@
-![Test](./images/Aviation-Safety.png)
+![Test](./imgs/Aviation-Safety.png)
 
 # Machine Learning in Aviation 
 
