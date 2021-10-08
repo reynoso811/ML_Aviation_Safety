@@ -51,19 +51,26 @@ Accuracy score was utilized for the models.
 
 ![final results](./imgs/rf_results.png)
 
+* X Train results:
+
 ![x-train-confs](./imgs/x-train-confusmatrix.png)
+
+* X Test results:
 
 ![x-test-confs](./imgs/x-test_confusmatrix.png)
 
 ### Analysis 
 
 * Percentages of fatal vs non-fatal accidents
+
 ![target](./imgs/bar-target.png)
 
 * Models performance was high due to these features. Further inspection to be done on fatality percentage.
+
 ![feature-importance](./imgs/rf_feauture_imp.png)
 
 * Most accidents in this data set. Further inspection into why or narrow modeling into these makes only. 
+
 ![make](./imgs/fatality_percentage_make.png)
 
 
