@@ -99,7 +99,7 @@ Accuracy score was utilized for the models.
 
 ## For More Information
 
-Please review our full analysis in [our Jupyter Notebooks](./notebooks) or our [presentation](./ML in Aviation Safety.pdf).
+Please review our full analysis in [our Jupyter Notebooks](./notebooks) or our [presentation](https://github.com/reynoso811/ML_Aviation_Safety/blob/main/ML%20in%20Aviation%20Safety.pdf).
 
 For any additional questions, please contact **Robert Reynoso & robert@birdstop.io**
 
