@@ -43,7 +43,7 @@ Accuracy score was utilized for the models.
 
 ## Results
 
-![graph1](./imgs/rf_results.png)
+![graph1](./imgs/model-results.png)
 
 * These were the 7 vanilla models that were used
 
@@ -63,33 +63,30 @@ Accuracy score was utilized for the models.
 
 ## Conclusions
 
-Given these analysis, 3 recommendations can be made:
-1. In order to maximize revenue a studio should consider making movies within in the Drama, Comedy, and Documentary genres.
 
-2. In order to maximize revenue a studio should consider releasing films in either December or June.
+1. Successfully ran 7 vanilla ML models to learn how we can improve aviation safety. 
 
-3. In order to maximize revenue a new studio should consider doing further research into Buena Vista and Universal Studios. In order to understand why these studios have been more successful than other studios in the U.S.
+2. The above models returned acceptable model performance.
 
-* The business problem for this project is a report on the movie industry that will allow Microsoft producers to make informed decisions in the creation of their new movie studio. 
+3. Through initial classification modeling, we learned  which features are important in classifying a fatal or non-fatal aviation accident.
 
-* A successful film in the U.S. is one that yields maximum profit.
+4. Although we can classify a accident with good model performance. Further investigation and feature engineering is required  on the fatality_percentage feature.
 
-* Thus using these 3 analysis a producer can begin to make informed decisions into creating a new movie studio. 
 
 ## Next Steps
 
-Further analysis could produce more accurate and current insights:
+1. Find or create more data specifically in the aircraft_damage category 
 
-* Merging more data sets could yield more accurate information
+2. Use imputation to replace any unknown data
 
-* Design a new label for movies with multiple genres. Yielding more data, rather than dropping movies with multiple genres. 
+3. Productionize model with prediction function
 
-* New investigation into what specifically made the top 50 studios more successful than other studios in the U.S.
+4. Look into multiclass classification to improve model accuracy
 
 
 ## For More Information
 
-Please review our full analysis in [our Jupyter Notebook](./Movie_Analysis.ipynb) or our [presentation](./Movie_Analysis.pdf).
+Please review our full analysis in [our Jupyter Notebook](./Movie_Analysis.ipynb) or our [presentation](./ML in Aviation Safety.pdf).
 
 For any additional questions, please contact **Robert Reynoso & robert@birdstop.io**
 
@@ -100,7 +97,7 @@ For any additional questions, please contact **Robert Reynoso & robert@birdstop.
 ```
 ├── README.md                           <- The top-level README for reviewers of this project
 ├── Movie_Analysis.ipynb                <- Narrative documentation of analysis in Jupyter notebook
-├── Movie_Analysis.pdf                  <- PDF version of project presentation
+├── ML in Aviation Safety.pdf           <- PDF version of project presentation
 ├── data                                <- Both sourced externally and generated from code
 └── images                              <- Both sourced externally and generated from code
 ```
