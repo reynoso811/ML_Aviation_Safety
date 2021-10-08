@@ -42,11 +42,13 @@ Accuracy score was utilized for the models.
 
 
 ## Results
+
 ![graph1](./imgs/rf_results.png)
 
 * These were the 7 vanilla models that were used
 
 * Final model - Random Forest
+
 ![final results](./imgs/rf_results.png)
 
 ![x-train-confs](./imgs/x-train-confusmatrix.png)
@@ -54,7 +56,7 @@ Accuracy score was utilized for the models.
 ![x-test-confs](./imgs/x-test_confusmatrix.png)
 
 ### Analysis 
-![target](./imgs/target_bar.png)
+![target](./imgs/bar-target.png)
 
 ![feature-importance](./imgs/rf_feauture_imp.png)
 
