@@ -42,19 +42,22 @@ Accuracy score was utilized for the models.
 
 
 ## Results
-* From Analysis 1, the most popular movie genres from 2010 - 2019 have been Drama, Comedy, and Documentary
+![graph1](./images/rf_results.png)
 
-* From Analysis 2, the most monetarily successful release dates have been December and June.
+* These were the 7 vanilla models that were used
 
-* From Analysis 3, the top 50 movie studios in the U.S. have been Buena Vista and Universal Studios.  
+* Final model - Random Forest
+![graph1](./images/rf_results.png)
 
+![graph1](./images/x-train-confusmatrix.png)
 
-### Analysis 1
-![graph1](./images/analysis_1.png)
+![graph1](./images/x-test_confusmatrix.png)
 
-![graph1](./images/analysis_2.png)
+### Analysis 
+![graph1](./images/target_bar.png)
 
-![graph1](./images/analysis_3.png)
+![graph1](./images/rf_feauture_imp.png)
+
 
 ## Conclusions
 
