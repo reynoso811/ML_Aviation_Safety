@@ -109,7 +109,7 @@ For any additional questions, please contact **Robert Reynoso & robert@birdstop.
 
 ```
 ├── README.md                           <- The top-level README for reviewers of this project
-├── Movie_Analysis.ipynb                <- Narrative documentation of analysis in Jupyter notebook
+├── Jupyter notebooks                   <- Narrative documentation of analysis in Jupyter notebook
 ├── ML in Aviation Safety.pdf           <- PDF version of project presentation
 ├── data                                <- Both sourced externally and generated from code
 └── images                              <- Both sourced externally and generated from code
